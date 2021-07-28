@@ -2,7 +2,7 @@ body{
     background: rgb(56,48,31);
     background: radial-gradient(circle, rgba(56,48,31,1) 0%, rgba(0,167,221,1) 100%);    font-family: ubuntu;
 }
-
+//
 h1{
     color: #fff;
     font-size: 64px;
